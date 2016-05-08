@@ -1,7 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
-alias vim=/Applications/MacVim.app/Contents/MacOS/Vim
+#alias vim=/Applications/MacVim.app/Contents/MacOS/Vim
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
